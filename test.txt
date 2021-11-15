@@ -1,8 +1,8 @@
 def add(a,b):
-	pass
+	a+b
 
 def sub(a,b):
-	a-b
+	a-b 
 
 def mul(a,b):
 	return a*b
